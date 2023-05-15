@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51277904133",
+    "project_id": "yemen-cc128",
+    "storage_bucket": "yemen-cc128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51277904133:android:b3a035f86d172018f71f6c",
+        "android_client_info": {
+          "package_name": "com.example.card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51277904133-n2h54bh3nu0dpk9airnt02npgjongmiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6Vnul730mXlgZRaLCRWiJGC90uJ8CFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51277904133-n2h54bh3nu0dpk9airnt02npgjongmiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
